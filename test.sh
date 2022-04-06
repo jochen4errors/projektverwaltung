@@ -1,4 +1,4 @@
-start=#!/bin/bash
+#!/bin/bash
 
 echo "=== projektverwaltung ==="
 echo "Workflow: Anlegen eines Projekts mit dem Editor Geany und der Versionskontrolle Git"
